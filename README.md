@@ -3,6 +3,11 @@ cppmagic
 
 A simple IPython extension that runs C++ code and shows the output. Supports command-line input to g++.
 
+Example output
+--------------
+
+http://nbviewer.ipython.org/urls/raw.github.com/dragly/cppmagic/master/example.ipynb
+
 Installation
 ------------
 
@@ -10,6 +15,8 @@ Simply download and try the example.ipynb notebook.
 
 Usage
 -----
+
+Run the following commands in one cell. This will download the cppmagic module and load it.
 
     %install_ext https://raw.github.com/dragly/cppmagic/master/cppmagic.py
     %load_ext cppmagic
