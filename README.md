@@ -11,7 +11,7 @@ http://nbviewer.ipython.org/urls/raw.github.com/dragly/cppmagic/master/example.i
 Installation
 ------------
 
-Simply download and try the example.ipynb notebook.
+Simply download and try the example.ipynb notebook that you'll find in the root folder of this repository.
 
 Usage
 -----
